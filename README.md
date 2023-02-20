@@ -5,7 +5,7 @@
 Soy estudiante actual del SENA en el programa tecnológico de Análisis y Desarrollo en Sistemas de Información (ADSI). Tengo un nivel de ingles de B2+ y soy una persona que suele aprender bastante rápido.
 Estos proyectos se realizan con fines educativos, aprendizaje y de ayuda para que puedan ser utilizados por otras personas.
 
-Habilidades: SQL / JAVA / JS / HTML / CSS / C#
+Habilidades: SQL / JAVA / JS / HTML / CSS / C# / PHP
 
 - 🔭 Estoy trabajando en un proyecto de contabilidad a cuotas con JS 
 - 🌱 Estoy aprendiendo C# autonomamente y realizando una tecnología con el SENA. 
